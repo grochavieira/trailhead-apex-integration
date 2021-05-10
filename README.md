@@ -29,14 +29,9 @@ Este repositório tem o objetivo de armazenar os exercícios realizados na plata
 
 ## ⚙️ Módulos
 
-- [x] Início rápido: Componentes Web do Lightning;
-- [x] Configurar suas ferramentas de desenvolvedor para componentes Web do Lightning;
-- [x] Noções básicas dos Componentes Web do Lightning;
-- [x] Componentes Web do Lightning e dados do Salesforce;
-- [ ] Testes dos componentes Web do Lightning;
-- [ ] Lightning Web Components for Aura Developers;
-- [ ] Lightning Web Components for Visualforce Developers;
-- [ ] Build a Bear-Tracking App with Lightning Web Components;
-- [ ] Communicate Between Lightning Web Components.
+- [x] Visão geral da integração com o Apex;
+- [x] Callouts REST do Apex;
+- [x] Callouts SOAP do Apex;
+- [x] Serviços da Web do Apex;
 
 ---
