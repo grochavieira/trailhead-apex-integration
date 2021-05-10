@@ -27,7 +27,7 @@
 
 Este repositório tem o objetivo de armazenar os exercícios realizados na plataform Salesforce Trailhead em relação ao módulo: Serviços de integração com o Apex.
 
-## ⚙️ Módulos
+## ⚙️ Tópicos
 
 - [x] Visão geral da integração com o Apex;
 - [x] Callouts REST do Apex;
